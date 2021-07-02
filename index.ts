@@ -19,6 +19,7 @@ class Banda {
 
 function main (){
   console.log("hay un cambio")
+  console.log("mira como hice otro cambio");
   const unAlbum = {
     title: "Album de marce",
     songs: ["tu vieja"],
